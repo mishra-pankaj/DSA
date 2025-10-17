@@ -1,0 +1,10 @@
+a group of collection of character in a sequence enclosed in double or single quotes . it behave as a array of character
+
+method os string -
+1. length - return string length
+2. slice(start, end ) - extract substring
+3. substring(start, end)- ssimilar to slice ,ß but no negative indexes
+4.toUpperCase()- Convert to upper case
+5. toLowercase()- convert to toLowercase
+6.concat()-
+7.trim() -
